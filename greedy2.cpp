@@ -1,4 +1,5 @@
 // Shop in Candy Store
+
 #include <iostream>
 using namespace std;
 
