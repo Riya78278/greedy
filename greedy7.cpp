@@ -1,6 +1,5 @@
 // Huffman Encoding
 
-
 #include <iostream>
 using namespace std;
 
