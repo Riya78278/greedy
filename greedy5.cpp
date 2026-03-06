@@ -1,6 +1,5 @@
 // Reverse Words
 
-
 #include <iostream>
 using namespace std;
 
