@@ -1,5 +1,6 @@
 // Check if it is possible to survive on Island
 
+
 #include <iostream>
 using namespace std;
 
