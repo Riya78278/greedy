@@ -1,5 +1,6 @@
 // N meetings in one room
 
+
 #include <iostream>
 using namespace std;
 
